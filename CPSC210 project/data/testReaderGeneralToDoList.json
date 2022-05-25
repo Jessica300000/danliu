@@ -1,0 +1,23 @@
+{
+  "name": "My to-do list",
+  "taskList": [
+    {
+      "date": "7-29-2021",
+      "month": 7,
+      "year": 2021,
+      "id": 1,
+      "complete": false,
+      "day": 29,
+      "content": "go to bad"
+    },
+    {
+      "date": "7-30-2021",
+      "month": 7,
+      "year": 2021,
+      "id": 2,
+      "complete": false,
+      "day": 30,
+      "content": "fitness"
+    }
+  ]
+}
